@@ -1,2 +1,19 @@
- .vscode/
- .env
+.vscode
+.env/
+**/*.pyc
+
+# dependencies
+node_modules
+
+# misc
+.DS_Store
+
+#frontend
+frontend/node_modules
+frontend/.cache
+frontend/dist
+.parcel-cache
+
+# backend
+backend/mychat/static
+backend/chat/templates
