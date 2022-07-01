@@ -8,11 +8,11 @@
   ## Features:
 __This real-time chat application supports:__
 
--:white_check_mark: Users Registration, Authentication, Login & Logout, 
-
 -:white_check_mark: Individual and group messaging,
 
 -:white_check_mark: Save and load historical chat messages,
+
+-:white_check_mark: Users Registration, Authentication, Login & Logout, 
 
 ## Chat App System Design Diagram:
 ![Screen Shot 2022-06-29 at 11 34 31 AM](https://user-images.githubusercontent.com/101481587/176511086-e469b4df-76a4-47a5-875c-8d7d40f4bcb1.jpg)
